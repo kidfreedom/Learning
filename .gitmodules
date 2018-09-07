@@ -4,3 +4,9 @@
 [submodule "CMake/vcproj2cmake"]
 	path = CMake/vcproj2cmake
 	url = https://github.com/sixman9/vcproj2cmake.git
+[submodule "Gyp/gyp"]
+	path = Gyp/gyp
+	url = https://chromium.googlesource.com/external/gyp
+[submodule "Gyp/hello-gyp"]
+	path = Gyp/hello-gyp
+	url = https://github.com/springmeyer/hello-gyp.git
