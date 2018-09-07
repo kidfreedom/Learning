@@ -1,0 +1,3 @@
+[submodule "CMake/cmake-demo"]
+	path = CMake/cmake-demo
+	url = https://github.com/wzpan/cmake-demo.git
