@@ -1,3 +1,6 @@
 [submodule "CMake/cmake-demo"]
 	path = CMake/cmake-demo
 	url = https://github.com/wzpan/cmake-demo.git
+[submodule "CMake/vcproj2cmake"]
+	path = CMake/vcproj2cmake
+	url = https://github.com/sixman9/vcproj2cmake.git
